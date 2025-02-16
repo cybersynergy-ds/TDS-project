@@ -1,0 +1,13 @@
+openai==0.28
+flask
+uv
+numpy
+scikit-learn
+pillow
+pytessaract
+fastapi
+uvicorn
+pandas
+prettier
+sqlite3
+faker
